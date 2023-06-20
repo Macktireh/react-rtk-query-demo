@@ -1,1 +1,1 @@
-# react-rtk-query-demo
+# React & RTQ Query
